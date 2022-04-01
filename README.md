@@ -1,2 +1,4 @@
 # Starve.io-Textures
-for mini and kane's server
+For Mini and Kane's starve.io AFK server
+------------
+https://discord.gg/54WE9bFwHd
